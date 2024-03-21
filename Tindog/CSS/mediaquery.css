@@ -1,0 +1,12 @@
+
+h1{
+    font-size: 30px;
+}
+
+
+/* Media Query */
+@media (min-width:900px) and (max-width:1000px)    {
+    h1{
+       font-size: 60px;
+    }
+} 

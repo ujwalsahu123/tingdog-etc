@@ -1,0 +1,11 @@
+.card{
+    background-color: brown;
+}
+.card-body{
+    background-color: yellow;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
